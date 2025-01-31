@@ -23,7 +23,7 @@ import CardContent from '@mui/material/CardContent';
 import Container from '@mui/material/Container';
 import axios from 'axios';
 
-const apiKey = "AIzaSyA4Zo61-toATxZH_A5wChHLclv48sTKBfU";
+const apiKey = "";
 const subletURL = `https://drop-table-backend.onrender.com/api/sublets`
 const userURL = `https://drop-table-backend.onrender.com/api/users`
 
