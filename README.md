@@ -5,3 +5,5 @@ The Illini Sublets application solves a very real need in the UIUC community –
 By allowing users to either post their own subleases or search through listings, the application seamlessly handles both use cases through the user portal. The streamlined user interface makes it extremely easy to manage your sublease and search for others.
 
 Illini Sublets takes in the address of subleases when users create them and populates the system with the corresponding image from Google Images. This protects your privacy when creating subleaes while still allowing others to see what the apartment exterior looks like.
+
+Users can favorite subleases to easily reference them when they log back in, and they can view contact information for sublessors on our site as well.
